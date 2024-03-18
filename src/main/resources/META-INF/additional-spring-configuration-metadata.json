@@ -1,0 +1,14 @@
+{
+    "properties": [
+        {
+            "name": "quizapp.jsonwebtoken.secret.key",
+            "type": "java.lang.String",
+            "description": "A description for 'quizapp.jsonwebtoken.secret.key'"
+        },
+        {
+            "name": "quizapp.jsonwebtoken.expiration",
+            "type": "java.lang.String",
+            "description": "A description for 'quizapp.jsonwebtoken.expiration'"
+        }
+    ]
+}
